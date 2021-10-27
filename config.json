@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"ip":"Chillll_Zone_SMP.aternos.me",
+	"port": "18307",
+	"name": "nirvaanbot",
+	"auto-night-skip":"false"
 }
